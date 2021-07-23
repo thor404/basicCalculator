@@ -15,7 +15,8 @@ let sumEl = document.getElementById("sum-el")
 
 function add() {
     let result = num1 + num2
-    sumEl.textContent = "Sum : " + result
+    temp = parseInt(result)
+    sumEl.textContent = "Sum : " + temp
 }
 
 function subtract() {
