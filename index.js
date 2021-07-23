@@ -1,14 +1,14 @@
 
 
 
-// let a = document.getElementById("num1-el").value;
-// let b = document.getElementById("num2-el").value;
+let a = document.getElementById("num1-el").value;
+let b = document.getElementById("num2-el").value;
 
-// let num1 = parseInt(a);
-// let num2 = parseInt(b); 
+let num1 = parseInt(a);
+let num2 = parseInt(b); 
 
-let num1 = parseInt( document.getElementById("num1-el").value)
-let num2 = parseInt( document.getElementById("num2-el").value)
+// let num1 = parseInt( document.getElementById("num1-el").value)
+// let num2 = parseInt( document.getElementById("num2-el").value)
 
 let sumEl = document.getElementById("sum-el")
 
